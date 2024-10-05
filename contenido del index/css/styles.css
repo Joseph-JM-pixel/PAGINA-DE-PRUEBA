@@ -3,15 +3,16 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
+    background-image: url(../css/fondo/fondo\ negro.jpg);
+    background-size: cover;
 }
 
 .encabezado {
     display: flex;
     color: white;
-    padding: 10px;
     justify-content: space-between;
     align-items: center;
-    background-image: url(../css/imagenes/nube_voladora.png);
+    background-image: url(../css/fondo/fondo\ blanco.png);
     background-size: cover;
     height: 10%;
     width: 100%;
@@ -23,19 +24,44 @@ body {
 }
 
 .menu a {
-    color: white;
+    color: black;
     text-decoration: none;
     margin-right: 20px;
 }
 
-.contenido1{
-    width: flex;
+.descripcion{
+    display: flex;
     margin: 20px 20px;
     padding: 20px;
     background-color: white;
+    image-orientation: right;
     border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+.servicios{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 20px;
+    padding: 20px;
+
+}
+
+.color{
+    background-color: white;
+    margin: 10px;
+
+}
+
+.peluqueria{
+    background-color: white;
+    margin: 10px 10px;
+}
+
+.barberia{
+    background-color: white;
+    margin: 10px 10px;
+}
+
+
 
 .texto1{
     text-align: left;
