@@ -25,64 +25,8 @@ body {
     margin-right: 20px;
 }
 
-.descripcion{
-    display: flex;
-    margin: 20px 20px;
-    padding: 20px;
-    background-color: white;
-    image-orientation: right;
-    border-radius: 5px;
-}
 
-.imagen_descripcion{
-    width: 30%;
-    height: 30%;
-}
 
-.texto_descripcion{
-    text-align: left;
-    font-size: larger;
-}
-
-.servicios{
-    display: flex;
-    justify-content: space-between;
-    background-color: white;
-    margin: 20px 20px;
-    padding: 20px;
-    
-}
-
-.color{
-    background-color: white;
-    margin: 10px;
-    width: 30%;
-    
-}
-
-.peluqueria{
-    background-color: white;
-    margin: 10px 10px;
-    width: 30%;
-}
-
-.barberia{
-    background-color: white;
-    margin: 10px 10px;
-    width: 30%;
-}
-
-.texto_color{
-    text-align: center;
-}
-
-.texto_peluqueria{
-    text-align: center;
-}
-
-.texto_barberia{
-    text-align: center;
-}
 
 .pie {
     background-color: black;
