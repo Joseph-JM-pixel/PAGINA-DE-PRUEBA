@@ -25,7 +25,39 @@ body {
     margin-right: 20px;
 }
 
+.titulo_galeria_1{
+    text-align: center;
+}
 
+.cortes{
+    margin: 10px 10px;
+    justify-content: space-between;
+}
+
+
+.barba{
+    margin: 10px 10px;
+    justify-content: space-between;
+
+}
+
+.titulo_galeria_2{
+    text-align: center;
+}
+
+.cortes_mujeres{
+    margin: 10px 10px;
+    justify-content: space-between;
+}
+.tinte_mujeres{
+    margin: 10px 10px;
+    justify-content: space-between;
+}
+
+.tratamiento_mujeres{
+    margin: 10px 10px;
+    justify-content: space-between;
+}
 
 .pie {
     background-color: black;

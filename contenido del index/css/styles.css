@@ -42,7 +42,6 @@ body {
 .texto_descripcion{
     text-align: left;
     font-size: larger;
-    color: black;
 }
 
 .servicios{
@@ -51,7 +50,6 @@ body {
     background-color: white;
     margin: 20px 20px;
     padding: 20px;
-    
 }
 
 .color{

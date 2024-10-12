@@ -25,7 +25,11 @@ body {
     margin-right: 20px;
 }
 
-
+.horario{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    height: 70.1%;
+}
 
 
 .pie {
